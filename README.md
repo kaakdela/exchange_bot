@@ -1,1 +1,1 @@
-# exchange_botsd
+# eзапускать файл app.py
